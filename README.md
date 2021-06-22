@@ -13,7 +13,7 @@
 
 `git config user.name  "Name"`
 
-`git config user.email name@example.com'
+`git config user.email name@example.com`
 
 4) Создать dev ветку 
 
